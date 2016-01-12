@@ -1,35 +1,35 @@
 1
 00:00:00,000 --> 00:00:02,500
-{\an8}AZ ELÕZÕ RÉSZ TARTALMÁBÓL:
+{\an8}AZ ELÕZÕ RÉSZEK TARTALMÁBÓL:
 
 2
 00:00:00,170 --> 00:00:01,291
-- Itt dolgozol?
+- Londonban dolgozol?
 - Igen.
 
 3
 00:00:01,321 --> 00:00:05,287
-Egy amerikai hirdetõcégnek.
-Most nyitok egy londoni irodát.
+Egy amerikai hirdetõcégnek dolgozom,
+most nyitok irodát Londonban.
 
 4
 00:00:05,317 --> 00:00:08,645
-- Õ Fran. Régi barátnõm.
-- Örülök a találkozásnak, Rob!
+- Ez itt Fran, egy régi barátnõm.
+- Örülök, hogy találkoztunk, Rob!
 
 5
 00:00:08,675 --> 00:00:12,813
-A gurum, Alan, tavaly a
-prosztatarákból kúrálta ki magát,
+A gurum, Alan, tavaly
+dióval gyógyította ki magát
 
 6
 00:00:12,913 --> 00:00:14,658
-- dióval.
-- Mit csinált a dióval?
+- a prosztatarákból.
+- Mit csinált a dióval,
 
 7
 00:00:14,688 --> 00:00:17,728
-- Feldugta a seggébe?
+- feldugta a seggébe?
 - Távozz a házamból! - Rákos vagyok.
 
 8
