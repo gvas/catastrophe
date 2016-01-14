@@ -19,8 +19,8 @@ most nyitok irodát Londonban.
 
 5
 00:00:08,675 --> 00:00:12,813
-A gurum, Alan, tavaly
-dióval gyógyította ki magát
+A gurum, Alan,
+tavaly dióval gyógyította ki magát
 
 6
 00:00:12,913 --> 00:00:14,658
@@ -37,1643 +37,1574 @@ dióval gyógyította ki magát
 Hé, ébren vagy?
 
 9
-00:00:26,308 --> 00:00:27,558
-Megbeszélhetünk valamit?
+00:00:26,308 --> 00:00:30,839
+- Megbeszélhetünk valamit?
+- Oké. - Nézz rám, légy szíves!
 
 10
-00:00:28,162 --> 00:00:30,839
-- Oké.
-- Nézz rám légy szíves!
-
-11
 00:00:30,870 --> 00:00:34,621
 Tudom, hogy nehéz az álmatlanság,
 én viszont aludtam,
 
-12
+11
 00:00:34,651 --> 00:00:36,675
 és jó lenne,
 ha legalább az egyikünk aludna.
 
-13
+12
 00:00:36,705 --> 00:00:40,625
 Nem. Inkább vigasztalj meg,
-aztán aludjunk mindketten.
+aztán aludjunk mindketten!
 
-14
+13
 00:00:40,655 --> 00:00:42,705
 Nem értek egyet, de legyen.
 
-15
+14
 00:00:45,886 --> 00:00:49,740
 Egyszerre vagyok felajzott
 és depressziós. Szörnyû.
 
-16
+15
 00:00:49,770 --> 00:00:51,658
 Biztos a hormonok.
 
-17
+16
 00:00:51,688 --> 00:00:54,777
 - Mit teszünk, ha a baba beteg lesz?
 - Nem lesz semmi baja.
 
-18
+17
 00:00:54,807 --> 00:00:57,632
 Mi lesz, ha torz fejjel születik?
 Ha speciális sisakra lesz szüksége?
 
-19
+18
 00:00:57,662 --> 00:01:00,390
 Örülj, hogy már gyártanak
-olyan sisakokat.
+olyan sisakokat!
+
+19
+00:01:00,420 --> 00:01:05,347
+Régen, ha egy babának torz feje volt,
+akkor torz fejû felnõtté cseperedett.
 
 20
-00:01:00,420 --> 00:01:03,139
-Régen,
-ha egy babának torz feje volt,
-
-21
-00:01:03,169 --> 00:01:05,347
-akkor torz fejû felnõtté
-cseperedett.
-
-22
 00:01:05,377 --> 00:01:08,515
 - Mi lesz, ha meghalsz?- Mielõtt
 idejöttem, kivizsgáltattam magam.
 
-23
+21
 00:01:08,545 --> 00:01:13,228
 - Van életbiztosításod?
 - Nincs, de kötök egyet. Neked is.
 
-24
+22
 00:01:13,675 --> 00:01:14,675
 Rendben.
 
-25
+23
 00:01:16,384 --> 00:01:19,482
-De ne túl nagy összegre! Nem
-akarom, hogy megölj a pénzért.
+De ne túl nagy összegre!
+Nem akarom, hogy megölj a pénzért.
 
-26
+24
 00:01:19,512 --> 00:01:20,612
 Nem foglak megölni.
 
-27
+25
 00:01:21,005 --> 00:01:24,555
-Amikor nõket ölnek meg, az esetek
-85%-ában a férj a tettes.
+Amikor nõket ölnek meg,
+az esetek 85%-ában a férj a tettes.
 
-28
+26
 00:01:25,036 --> 00:01:28,605
 Biztos rájönnének, hogy én voltam.
 Ha akarnálak sem ölnélek meg.
 
-29
+27
 00:01:28,635 --> 00:01:32,336
 - Bérgyilkost sem fogadok.
 - Én sem öllek meg. - Köszönöm, édesem.
 
+28
+00:01:33,714 --> 00:01:36,959
+Van egy rémálmom. Egy étteremben vagyok,
+ki kell mennem a WC-re,
+
+29
+00:01:36,989 --> 00:01:39,183
+de véletlenül a konyhába tévedek,
+ahol az olasz szakács
+
 30
-00:01:33,714 --> 00:01:36,002
-Van egy rémálmom. Egy
-étteremben vagyok, ki kell mennem
+00:01:39,213 --> 00:01:43,913
+beszéd közben gesztikulál,
+és véletlenül hasba szúr a késével.
 
 31
-00:01:36,032 --> 00:01:39,183
-a WC-re, de véletlenül a konyhába
-tévedek, ahol az olasz szakács
-
-32
-00:01:39,213 --> 00:01:43,913
-beszéd közben gesztikulál, és
-véletlenül hasba szúr a késével.
-
-33
 00:01:44,930 --> 00:01:49,695
 - Tudod, mert az olaszok sokat
 gesztikulálnak. - Másvalami? - Igen!
 
-34
+32
 00:01:50,067 --> 00:01:54,375
 Szar a világ! Talán mi nem öljük meg
 egymást, de ott vannak a terroristák.
 
-35
+33
 00:01:54,405 --> 00:01:58,375
 Lehet, hogy a kormányod holnap
 gondol egyet, és háborúzni kezd.
 
-36
+34
 00:01:58,405 --> 00:02:01,484
-Nem aggódhatsz minden miatt.
-Annyi sok ismeretlen...
+Nem aggódhatsz minden miatt!
+Túl sok...
 
-37
+35
 00:02:01,514 --> 00:02:05,557
 - Ebola, globális felmelegedés...
 - Azok is aggasztanak.
 
-38
+36
 00:02:05,587 --> 00:02:06,937
 Nem lesz semmi baj.
 
-39
+37
 00:02:06,996 --> 00:02:11,346
 Tudod, hogy kikkel fog végezni
 elõször a globális felmelegedés?
 
-40
+38
 00:02:11,376 --> 00:02:15,947
 A bangladesiekkel. Bangladesiek
 millióival. És ezt mindenki leszarja.
 
-41
+39
 00:02:16,142 --> 00:02:19,798
-Miért nincs egy fertõzõ köszvény,
-ami csak a gazdagokat öli meg?
+Miért nincs egy levegõben terjedõ
+köszvény, ami csak a gazdagokat öli meg?
 
-42
+40
 00:02:19,828 --> 00:02:22,708
 Jó lenne azt olvasni az újságokban,
 hogy Monaco megsemmisült,
 
+41
+00:02:22,738 --> 00:02:25,600
+- mert összedõltek az összetákolt
+kastélyaik. - Kicsit elkalandoztunk...
+
+42
+00:02:25,630 --> 00:02:28,803
+És tudod, hogy Banglades mennyi
+üvegházhatású gázt bocsát ki?
+
 43
-00:02:22,738 --> 00:02:24,605
-mert összedõltek
-az összetákolt kastélyaik.
-
-44
-00:02:24,635 --> 00:02:26,350
-- Kicsit elkalandoztunk...
-- És tudod,
-
-45
-00:02:26,380 --> 00:02:28,803
-hogy Banglades mennyi
-üvegházgázt bocsát ki?
-
-46
 00:02:28,833 --> 00:02:33,234
 - Nem. - Nagyjából semmit, oké?
 Bangladest mégis elönti az óceán,
 
-47
+44
 00:02:33,264 --> 00:02:36,119
 miközben mi Range Roverekkel
 furikázunk a szupermarketbe,
 
-48
+45
 00:02:36,149 --> 00:02:40,519
 olyan gatyákért, amiket 7 éves
 bérrabszolgák varrtak. 2015-ben!
 
-49
+46
 00:02:40,549 --> 00:02:42,250
 Hívjuk õket simán rabszolgáknak!
 
-50
+47
 00:02:42,280 --> 00:02:46,047
 Van olyan szar az életük.
 A szarnál is szarabb.
 
-51
+48
 00:02:46,077 --> 00:02:49,116
 Nos, ezen nem fog segíteni
 egy rinyálós idióta,
 
-52
+49
 00:02:49,146 --> 00:02:52,446
 aki ágyban fekve oktat ki
 egy terhes nõt, igaz?
 
-53
+50
 00:02:53,737 --> 00:02:54,837
-Jó éjszakát.
+Jó éjszakát!
 
-54
+51
 00:02:58,127 --> 00:02:59,877
-Ja, aludj jól. Seggfej.
+Ja, aludj jól! Seggfej.
 
-55
+52
 00:03:02,100 --> 00:03:05,600
 Catastrophe 1x03
 Fordította: gvas (www.feliratok.info)
 
-56
+53
 00:03:07,663 --> 00:03:11,598
 <i>- Halló, Rob?</i>
-- Szia Tony. Hogy vagy? <i>- Megvagyok.</i>
+- Szia, Tony. Hogy vagy? <i>- Megvagyok.</i>
 
-57
+54
 00:03:11,829 --> 00:03:15,407
 - Mi a helyzet Londonban?
 - Minden nagyszerû.
 
-58
+55
 00:03:15,437 --> 00:03:18,292
 <i>- Greg és Mark is ott van?</i>
 - Itt vagyok!
 
-59
+56
 00:03:18,322 --> 00:03:21,194
-Megbeszélésem volt a Crocsos fickókkal,
-és ki kellett osonnom.
+Kiosontam egy hívás erejéig.
+A Crocsos fickókkal beszéltem.
 
-60
+57
 00:03:21,224 --> 00:03:24,824
-Úgy tûnt,
-hogy van egy kis gondjuk Európában,
+Gondjuk van az európai kereslet
+szinten tartásával. Azt mondtam nekik:
 
-61
+58
 00:03:25,019 --> 00:03:28,848
-talán azért,
-mert nem az összes európai
+"Kedveseim, ez azért van,
+mert az európaiak nem egytõl egyig
 
-62
+59
 00:03:28,878 --> 00:03:31,132
 Day-Glo gumipapucsot hordó
-kövér idióta.
+kövér idióták."
 
-63
+60
 00:03:31,162 --> 00:03:33,410
 - Itt is vannak kövér idióták.
 - De kevesebb, nem?
 
-64
+61
 00:03:33,440 --> 00:03:35,540
 <i>- De, azt hiszem.</i>
 - Rob...
 
-65
+62
 00:03:35,580 --> 00:03:38,296
-<i>kicsit visszhangos vagy, közelebb
-tudnál hajolni a mikrofonhoz?</i>
+<i>kicsit visszhangos vagy,
+közelebb tudnál hajolni a mikrofonhoz?</i>
 
-66
+63
 00:03:38,326 --> 00:03:39,626
 Igen, elnézést.
 
-67
+64
 00:03:42,760 --> 00:03:43,810
 Greg is csatlakozni fog?
 
-68
+65
 00:03:44,421 --> 00:03:49,281
 - Nem, nem fog. Figyelj...
 Rob. Ülsz? - Igen.
 
-69
+66
 00:03:49,311 --> 00:03:52,985
 <i>Gregnek agyvérzése volt
 péntek este. Elég komoly.</i>
 
-70
+67
 00:03:53,015 --> 00:03:54,860
 - Kómában fekszik.
 <i>- Istenem.</i>
 
-71
+68
 00:03:55,198 --> 00:03:59,414
-- Ellen hogy viseli? - Rosszul.
+- Ellen jól viseli? - Nem igazán.
 Elég szar ügy. - Krisztusom!
 
-72
+69
 00:03:59,444 --> 00:04:02,259
 Elég durva. Figyelj, sajnálom,
 hogy témát kell váltanom,
 
-73
+70
 00:04:02,289 --> 00:04:04,608
 de el tudnád mondani,
 hogy mi a helyzet nálad?
 
-74
+71
 00:04:04,786 --> 00:04:08,459
 <i>Jó lenne tisztább képet kapni arról,</i>
 hogy pontosan mit is csinálsz.
 
-75
+72
 00:04:08,489 --> 00:04:11,790
 - Sikerült ügyfelekkel beszélned?
 - Igen, ügyfelekkel, többel is.
 
-76
+73
 00:04:11,930 --> 00:04:16,145
 Itt van például a Jeff's Cola...,
 amit szívesen felkarolna...
 
-77
+74
 00:04:16,175 --> 00:04:18,685
 a Lidl áruházlánc.
 
-78
+75
 00:04:20,823 --> 00:04:22,623
 Szóval ez van a Jeff'sszel.
 
-79
+76
 00:04:28,253 --> 00:04:31,988
-Épp egy Excelt nyitok.
+Épp megnyitok egy táblázatot.
 Múlt héten találkoztam...
 
-80
+77
 00:04:35,276 --> 00:04:36,376
 a Hanley'sszel.
 
-81
-00:04:36,475 --> 00:04:40,110
+78
+00:04:36,475 --> 00:04:41,650
 Olyan nõknek gyártanak nadrágokat,
-akik sokat fõznek.
+akik sokat fõznek. Szakácsnõknek.
 
-82
-00:04:40,550 --> 00:04:41,650
-Szakácsnõknek.
-
-83
+79
 00:04:42,401 --> 00:04:44,020
 Nõi szakácsnadrágokat gyártanak.
 
-84
+80
 00:04:45,288 --> 00:04:46,638
 Mennyi a pénzügyi keretük?
 
-85
+81
 00:04:46,669 --> 00:04:51,195
 A termék annyira nagyszerû,
 hogy a határ a csillagos ég.
 
-86
-00:04:54,615 --> 00:04:56,170
-Visszatérve Gregre...
+82
+00:04:54,615 --> 00:04:58,018
+- Visszatérve Gregre...
+- Igen. Szörnyû.
 
-87
-00:04:56,500 --> 00:04:58,018
-Igen. Szörnyû.
-
-88
+83
 00:04:58,048 --> 00:05:01,021
-Térjünk vissza rá a jövõ héten.
+Térjünk vissza rá a jövõ héten!
 Greg is utálta a konferenciahívásokat.
 
-89
+84
 00:05:01,051 --> 00:05:04,468
 Csak ne felejts el minket,
-és ne állj be a svájci gárdába.
+és ne állj be a svájci gárdába!
 
-90
-00:05:04,498 --> 00:05:07,048
-- A királyi gárdára gondolsz?
-- Aha, igen.
+85
+00:05:04,498 --> 00:05:09,465
+- A királyi gárdára gondolsz? - Aha,
+igen. Minden jót, haver! - Oké, köszi!
 
-91
-00:05:07,165 --> 00:05:09,465
-- Minden jót, haver!
-- Ok, köszönöm!
-
-92
+86
 00:05:10,229 --> 00:05:11,864
 - Szia.
 - Szia.
 
-93
+87
 00:05:13,798 --> 00:05:16,064
 <i>- Hogy ment a megbeszélés?
 - Kemény volt.</i>
 
-94
+88
 00:05:16,094 --> 00:05:18,144
 Az egyik partnernek
 agyvérzése volt.
 
-95
+89
 00:05:18,295 --> 00:05:22,528
 - És kényszerítették, hogy felhívjon?
 - Ez jó volt. Jó agyvérzéses vicc.
 
-96
+90
 00:05:22,558 --> 00:05:25,620
 Még mindig megvan az állásom,
 ami egy kisebbfajta csoda.
 
-97
+91
 00:05:25,650 --> 00:05:28,863
 De éreztették,
 hogy össze kell szednem magam,
 
-98
+92
 00:05:28,893 --> 00:05:31,181
 hogy továbbra is pénzeljék
 a londoni irodámat.
 
-99
+93
 00:05:31,211 --> 00:05:35,335
 Nem vagy cégtulajdonos? Amikor
 elõször találkoztunk, azt mondtad.
 
-100
+94
 00:05:35,365 --> 00:05:39,297
 - Hacsak nem hazudtál, hogy a bugyimba
 férkõzz. - 2,5%-ban tulajdonos vagyok.
 
-101
+95
 00:05:39,666 --> 00:05:44,666
 Nem hazudtam. Nekem meg az rémlik,
 hogy a doktoriddal dicsekedtél.
 
-102
-00:05:44,878 --> 00:05:46,979
-A disszertáció majdnem
-felét megírtam.
+96
+00:05:44,878 --> 00:05:49,109
+- A disszertáció majdnem felét megírtam.
+- És hogy jelentek meg már írásaid.
 
-103
-00:05:47,009 --> 00:05:49,109
-És hogy jelentek meg már írásaid.
-
-104
+97
 00:05:51,488 --> 00:05:54,587
 Mindenesetre szedd össze magad,
-ahogy ajánlották.
+ahogy ajánlották!
 
-105
+98
 00:05:54,617 --> 00:05:57,049
-Nézz ki valahogy. Esetleg vegyél
-egy öltönyt,
+Nézz ki valahogy!
+Esetleg vegyél egy öltönyt
 
-106
+99
 00:05:57,079 --> 00:05:59,878
-ami passzol rád.
+normális hosszúságú ujjakkal!
 Londonban vagy!
 
-107
+100
 00:05:59,908 --> 00:06:03,260
 - Szerinted Clive Owen felvenné ezt?
 - Nem tudom. Szerinted...
 
-108
+101
 00:06:03,290 --> 00:06:09,439
 Kate Winslet felvenne egy...
 kockás, sárga, fiú tweedzakót?
 
-109
+102
 00:06:09,793 --> 00:06:11,543
 Egyáltalán, mi ez?
 
-110
+103
 00:06:22,479 --> 00:06:26,592
-<i>- Látja azt ott a próbababán?</i> - Igen.
-<i>- Egy olyan kicsit szeretnék.</i> - Értem.
+- Látja azt ott a próbababán? - Igen.
+- Egy olyan kicsit szeretnék. - Értem.
 
-111
+104
 00:06:26,622 --> 00:06:30,455
 - Nem passzol a nyakkendõhöz.
-<i>- Nem. - Van zöld ing?</i>
+- Nem. - Van zöld ing?
 
-112
+105
 00:06:30,485 --> 00:06:33,781
-<i>- Attól tartok...</i> Esetleg...
+- Attól tartok... Esetleg...
 - Miért nincs szürke színû?
 
-113
+106
 00:06:33,811 --> 00:06:37,256
-<i>Komolyan. Mit gondol? Látja,
-ez egy semleges színpaletta.</i>
+Komolyan. Mit gondol? Látja,
+ez egy semleges színpaletta.
 
-114
+107
 00:06:38,850 --> 00:06:39,873
 Bocsánat!
 
-115
+108
 00:06:40,715 --> 00:06:45,600
 - Mi a fene! - Hé, Chris!
 Figyelj, kimegyek, csak...
 
-116
+109
 00:06:45,630 --> 00:06:48,879
-- Ne légy hülye. Fran kint vár.
+- Ne légy hülye! Fran kint vár.
 - Tudom.
 
-117
+110
 00:06:48,909 --> 00:06:54,217
 - Azért menekültem be ide.
 - Félsz az én édes kis feleségemtõl?
 
-118
+111
 00:06:54,565 --> 00:06:59,157
 - Nem, csak...
 - Nem szégyen. Neked nem.
 
-119
+112
 00:07:01,050 --> 00:07:02,050
 Szóval...
 
-120
+113
 00:07:03,460 --> 00:07:06,160
 hogy mennek a dolgaid?
-Kezded megtalálni a helyed?
+Kezded megtalálni a helyedet?
 
-121
+114
 00:07:06,360 --> 00:07:11,160
-Igen. A meló kemény, nem ismerek
-senkit, kivéve Sharont,
+Igen. A meló kemény,
+nem ismerek senkit, kivéve Sharont,
 
-122
+115
 00:07:11,694 --> 00:07:14,414
 - és egy Dave nevû fickót.
 - Innunk kellene egyszer valamit.
 
-123
-00:07:14,444 --> 00:07:16,394
-Megnézni egy filmet.
-
-124
-00:07:16,795 --> 00:07:18,895
-Nem akarom,
+116
+00:07:14,444 --> 00:07:18,895
+Megnézni egy filmet. Nem akarom,
 hogy magányos legyél.
 
-125
+117
 00:07:19,290 --> 00:07:20,790
 Oké, rendben.
 
-126
+118
 00:07:22,300 --> 00:07:26,293
 - Mi lesz Frannel? Nem lesz mérges?
 - De. Ki nem állhat téged.
 
-127
+119
 00:07:26,323 --> 00:07:30,731
 A vacsora óta nem néz Mad Ment,
-mert Harry rád emlékeztet.
+mert Harry rád emlékezteti.
 
-128
+120
 00:07:30,761 --> 00:07:35,179
 Harry? Biztos, hogy Harry?
 Nem inkább...
 
-129
+121
 00:07:35,209 --> 00:07:37,309
 <i>Milyenek a nadrágok,
 szerelmem?</i>
 
-130
+122
 00:07:37,531 --> 00:07:43,096
-Kicsit rövidek, édesem. Tudnál
-hozni egy számmal nagyobbat?
+Kicsit rövidek, édesem.
+Tudnál hozni egy számmal nagyobbat?
 
-131
+123
 00:07:43,126 --> 00:07:44,606
-- Ok.
+- Oké.
 <i>- Köszönöm.</i>
 
-132
+124
 00:07:46,984 --> 00:07:47,984
-Hívj fel.
+Hívj fel!
 
-133
+125
 00:07:49,289 --> 00:07:51,469
-- Egy szót se a csajoknak.
+- Egy szót se a csajoknak!
 - Hogyisne.
 
-134
+126
 00:07:51,499 --> 00:07:54,069
 Balra, majd kétszer jobbra,
 és a fehérnemûosztályra jutsz.
 
-135
+127
 00:07:54,099 --> 00:07:56,549
-Ott biztonságban leszel. Menj.
+Ott biztonságban leszel. Menj!
 
-136
-00:08:19,046 --> 00:08:21,409
-- Tûnj innen!
-- Te tûnj innen!
+128
+00:08:19,046 --> 00:08:23,620
+- Tûnj innen! - Te tûnj innen!
+- El sem hiszem!
 
-137
-00:08:21,830 --> 00:08:23,620
-El sem hiszem.
-
-138
+129
 00:08:24,617 --> 00:08:27,690
 - Hogy vagy?
 - Jól, köszi. És te?
 
-139
+130
 00:08:28,180 --> 00:08:32,245
 Jól. Ugyan most kicsit
 sokkos vagyok, de jól.
 
-140
+131
 00:08:32,580 --> 00:08:36,230
 - Mit keresel a könyvesboltomban?
 - Megvetted az Archer'st?
 
-141
+132
 00:08:36,830 --> 00:08:37,830
 Dehogyis!
 
-142
+133
 00:08:39,260 --> 00:08:40,575
 Ez hihetetlen.
 
-143
+134
 00:08:41,210 --> 00:08:44,371
-- Mi újság? Még a doktoridat
-csinálod? - Nem.
+- Mi újság?
+Még a doktoridat csinálod? - Nem.
 
-144
+135
 00:08:44,870 --> 00:08:47,720
 Velem nincs semmi különös.
 Veled mi újság?
 
-145
+136
 00:08:47,750 --> 00:08:52,102
 Sok minden. Négy év
 alatt sok minden...
 
-146
+137
 00:08:52,132 --> 00:08:54,300
-Hallgass ide,
+Nézd, késésben vagyok,
 ebédelnem kell valakivel.
 
-147
+138
 00:08:54,330 --> 00:08:56,620
 - Ebédelned kell valakivel? Az igen.
 - Igen, de...
 
-148
+139
 00:08:56,650 --> 00:09:01,070
 - vehetek neked egy kávét valamikor?
 - Már nem kávézok.
 
-149
+140
 00:09:01,120 --> 00:09:03,720
 Oké. Esetleg ehetnénk valamit.
 
-150
+141
 00:09:04,310 --> 00:09:07,250
 - Enni szoktál még?
 - Folyamatosan. Mindent megeszek.
 
-151
+142
 00:09:07,280 --> 00:09:09,930
-Nagyszerû. Akkor majd dumálunk.
+Nagyszerû! Akkor majd dumálunk.
 
-152
-00:09:09,960 --> 00:09:12,580
+143
+00:09:09,960 --> 00:09:13,889
 - Rendben. - Holnap felhívlak.
-- Oké. - Oké.
+- Oké. - Oké. Nagyszerû!
 
-153
-00:09:12,889 --> 00:09:13,889
-Nagyszerû!
-
-154
+144
 00:09:20,080 --> 00:09:22,470
 - Szia.
 - Akkor szia.
 
-155
+145
 00:09:24,182 --> 00:09:25,182
 Francba!
 
-156
+146
 00:09:33,970 --> 00:09:34,970
 Sharon!
 
-157
+147
 00:09:37,150 --> 00:09:42,049
 - Fran! Szia! Nem láttalak. Hogy vagy?
 - Nagyon jól, köszönöm.
 
-158
+148
 00:09:42,979 --> 00:09:48,533
-- Nem láttalak, mióta... - Fátylat rá.
+- Nem láttalak, mióta... - Fátylat rá!
 - Komolyan? - Igen.
 
-159
+149
 00:09:50,070 --> 00:09:52,920
 - Jól nézel ki...
 - Remélem is!
 
-160
-00:09:53,360 --> 00:09:58,680
-- 3 hetes fiatalító kúrán voltam a
-Turks- és Caicos szigeteken. - Tényleg?
+150
+00:09:53,360 --> 00:09:56,100
+Egy kisebb vagyont költöttem
+egy 3 hetes fiatalító kúrára
 
-161
-00:09:59,340 --> 00:10:03,030
+151
+00:09:56,130 --> 00:09:58,226
+- a Turks- és Caicos szigeteken.
+- Tényleg?
+
+152
+00:09:59,200 --> 00:10:03,030
 - Mi van veled? - Jól vagyok.
 Ugyan az elõrákom még megvan,
 
-162
+153
 00:10:03,060 --> 00:10:05,410
 de az orvosok azt mondják,
 hogy meg fogok szabadulni tõle
 
-163
+154
 00:10:05,440 --> 00:10:07,640
 a szülés alatt, szóval...
 
-164
+155
 00:10:08,470 --> 00:10:11,020
 - Ez jó hír.
 - Igen.
 
-165
+156
 00:10:11,580 --> 00:10:15,090
 - Hogy van a kis Jeffrey?
 - Jeffrey? Jeffrey csodálatos.
 
-166
+157
 00:10:15,120 --> 00:10:17,440
 Új sorozatot forgat az ITV1-nek.
 
-167
+158
 00:10:17,470 --> 00:10:21,535
 - A Dorian lovagjai könyvek
 egy adaptációja lesz. - Jézusom...
 
-168
+159
 00:10:21,565 --> 00:10:25,180
 - Tessék? - Elnézést,
 nem akartam... Az nagyszerû.
 
-169
+160
 00:10:25,210 --> 00:10:27,560
 Csak utálom azokat a könyveket.
 
-170
+161
 00:10:27,915 --> 00:10:32,600
 - Rémesek, ugye?
 - Nem. Szerintem nem rémesek.
 
-171
+162
 00:10:33,280 --> 00:10:37,499
 Nem azt mondom, hogy a sorozat
 rémes lesz. Csak... a könyvek azok.
 
-172
+163
 00:10:39,920 --> 00:10:42,570
 - És hogy van Chris?
 - Nagyszerûen.
 
-173
+164
 00:10:46,560 --> 00:10:51,537
 - Összefutottam Frannel. - Tényleg?
 - Igen. Te nem láttad? - Nem. Hûha.
 
-174
+165
 00:10:52,160 --> 00:10:56,360
-- Megvetted az új ruháid? - Igen.
-- És te megvetted a könyved? - Aha.
+- Megvetted az új ruháidat? - Igen.
+- És te megvetted a könyvedet? - Aha.
 
-175
+166
 00:10:56,580 --> 00:10:58,380
 - Lelécelünk?
 - Igen.
 
-176
+167
 00:11:12,527 --> 00:11:14,479
 DORIAN LOVAGJAI
 
-177
+168
 00:11:16,460 --> 00:11:19,447
 A régi idõk kibaszott varázslói!
 
-178
+169
 00:11:22,490 --> 00:11:25,246
 - Hé!
 - Szia. - Szia.
 
-179
+170
 00:11:26,670 --> 00:11:31,291
-- Minden rendben? - Igen. Csak túl
-sok "Köszönöm, nemet" hallottam ma.
+- Minden rendben? - Igen. Csak túl sok
+"Köszönöm, nem"-et hallottam ma.
 
-180
+171
 00:11:31,451 --> 00:11:33,772
 De annyira udvariasak,
 hogy azt hiszed, igeneket mondtak,
 
-181
+172
 00:11:33,802 --> 00:11:36,340
 amíg késõbb vissza nem idézed
 a beszélgetést. Tudod mit?
 
-182
+173
 00:11:36,370 --> 00:11:39,620
 Nagyon udvariatlan
 ennyire udvariasnak lenni.
 
-183
+174
 00:11:41,570 --> 00:11:45,389
 - Kérsz egy teát? - Igen, köszönöm.
 Milyen volt a suliban?
 
-184
+175
 00:11:45,419 --> 00:11:48,999
-Továbbra is azt a furcsa,
-sírós-elélvezõs érzést érzem.
+Rámtör néha egy fura érzés, hogy
+mindjárt elsírom magam vagy elélvezek.
 
-185
+176
 00:11:49,029 --> 00:11:52,913
 Ki kellett mennem a mosdóba,
 és... tudod... magamhoz nyúltam.
 
-186
+177
 00:11:53,473 --> 00:11:56,630
 - Szörnyû volt. Rettenetes.
 - Akarsz beszélni róla?
 
-187
+178
 00:11:56,660 --> 00:12:00,134
 Nem tudom. Nem tudom eldönteni,
 hogy ez hormonális vagy mentális.
 
-188
+179
 00:12:00,164 --> 00:12:02,900
 Nem, úgy értem, el akarod mondani,
 hogy hogyan maszturbáltál?
 
-189
+180
 00:12:02,930 --> 00:12:06,070
 - Mindkét kezedet használtad?
 - Hány éves vagy? 14?
 
-190
+181
 00:12:07,353 --> 00:12:08,953
 Még mindig tart
 ez a furcsa érzés?
 
-191
+182
 00:12:08,983 --> 00:12:12,598
-- Igen, egy kicsit. Folyamatosan
-érzem. - Akkor van egy jó hírem.
+- Igen, egy kicsit. Folyamatosan érzem.
+- Akkor van egy jó hírem.
 
-192
+183
 00:12:12,628 --> 00:12:14,210
 Mielõtt beléptem a lakásba,
 
-193
+184
 00:12:14,240 --> 00:12:16,930
 láttam egy nõt, ahogy elõrehajolt,
 hogy felvegye a szemeteszsákját.
 
-194
+185
 00:12:16,960 --> 00:12:21,645
 Mindkét melle elõvillant. Ha nem
 lennél itthon, kivertem volna,
 
-195
+186
 00:12:21,675 --> 00:12:24,519
 - de mivel itthon vagy...
 - Tudod mit? Elmúlt.
 
-196
+187
 00:12:28,055 --> 00:12:29,900
 {\an8}CHRIS
 
-197
+188
 00:12:29,245 --> 00:12:30,757
 Dave az, az a pöcs.
 
-198
-00:12:31,978 --> 00:12:33,178
-Lerázom...
+189
+00:12:31,978 --> 00:12:35,850
+- Lerázom... - Persze.
+Egybarátos Johnny.
 
-199
-00:12:33,800 --> 00:12:35,850
-Persze. Egybarátos Johnny.
-
-200
+190
 00:12:38,284 --> 00:12:40,618
 <i>Hát, nem irigyellek,
 egy idegen országban</i>
 
-201
+191
 00:12:40,648 --> 00:12:43,080
 - kell üzleteket tetõ alá hoznod.
 - Egy rémálom.
 
-202
+192
 00:12:43,289 --> 00:12:46,658
 Miért nem kezdesz valami újba?
 
-203
+193
 00:12:46,688 --> 00:12:49,460
-Bassza meg a reklámszakma.
+Bassza meg a reklámszakma!
 Az a seggfejek játszótere.
 
-204
+194
 00:12:49,490 --> 00:12:52,590
 Mihez lenne igazán kedved?
 Mi a szenvedélyed?
 
-205
+195
 00:12:52,620 --> 00:12:55,520
 - Nem hiszem, hogy...
 - Gyerünk... álommeló?
 
-206
-00:12:57,380 --> 00:12:59,480
-Szeretem a nagy állatokat.
+196
+00:12:57,380 --> 00:13:01,761
+- Szeretem a nagy állatokat.
+- Nagy állat-szeretõ? Hogy fizet?
 
-207
-00:13:00,160 --> 00:13:01,761
-Nagy állat-szeretõ? Hogy fizet?
-
-208
+197
 00:13:01,791 --> 00:13:05,340
-Nem, úgy értem, fiatalabb koromban
+Nem, mármint fiatalabb koromban
 állatorvos akartam lenni.
 
-209
+198
 00:13:05,370 --> 00:13:06,830
 Még egy sulit is elkezdtem.
 
-210
+199
 00:13:06,860 --> 00:13:09,570
 De aztán Brian unokatesóm
 elkezdett dolgozni egy reklámcégnél,
 
-211
+200
 00:13:09,600 --> 00:13:12,703
 és hamarosan Ferrarival járt
 és egy jégtáncossal randizgatott.
 
-212
-00:13:12,733 --> 00:13:13,983
-Figyelj. Vágj bele.
+201
+00:13:12,733 --> 00:13:16,230
+Figyelj! Vágj bele!
+Legyél állatorvos! Próbáld meg!
 
-213
-00:13:14,732 --> 00:13:16,230
-Legyél állatorvos. Próbáld meg.
-
-214
+202
 00:13:16,585 --> 00:13:19,035
 - Biztos?
-- Persze. Ragadd meg az alkalmat.
+- Persze. Ragadd meg az alkalmat!
 
-215
+203
 00:13:21,333 --> 00:13:23,133
 Rendben. Mit nézünk meg?
 
-216
+204
 00:13:23,690 --> 00:13:27,640
-A "The Emancipation of Flyburton
-Crisp"-re vettem jegyeket.
+A "Flyburton Crisp emancipációja"-ra
+vettem jegyeket.
 
-217
+205
 00:13:27,750 --> 00:13:31,279
 - Micsoda? - Az új
 Wes Anderson film. - Nem.
 
-218
+206
 00:13:31,784 --> 00:13:35,420
 - Nem? Egyszerûen nem?
 - Egyszerûen nem. Mi van még?
 
-219
+207
 00:13:35,730 --> 00:13:40,060
 Megnézhetjük még... azt az
 Adam Sandler filmet. 8:10-kor kezdõdik.
 
-220
+208
 00:13:40,090 --> 00:13:41,090
-Gyerünk.
+Gyerünk!
 
-221
+209
 00:14:16,900 --> 00:14:18,615
 És még egy csomag
 golyóstollat kérek.
 
-222
+210
 00:14:24,953 --> 00:14:27,977
 A KARTELLNEK NEM LEHETETT
-NEMET MONDANI
+NEMET MONDANI.
 
-223
+211
 00:14:37,325 --> 00:14:38,625
 Elnézést. Halló.
 
-224
+212
 00:14:39,812 --> 00:14:44,100
 - Igen? - Lehetne...
 egy kicsit halkabban? - Tessék?
 
-225
+213
 00:14:44,130 --> 00:14:46,182
 Nagyon hangosan kopácsol.
 
-226
+214
 00:14:47,330 --> 00:14:51,388
 Mintha el akarná törni a saját
 ujjait. Gondolkodni sem tudok így.
 
-227
+215
 00:14:51,883 --> 00:14:52,883
 Jézusom!
 
-228
+216
 00:14:58,452 --> 00:15:00,635
 OWEN: "HOLNAP ESTE? OWEN"
 
-229
+217
 00:15:08,657 --> 00:15:11,626
 <i>Szia,</i>
-kérdezhetek valami?
+kérdezhetek valamit?
 
-230
+218
 00:15:13,074 --> 00:15:17,684
 - Baj lenne, ha otthagynám
-a munkám? Helyette... - Igen.
+a munkámat? Helyette... - Igen.
 
-231
+219
 00:15:17,794 --> 00:15:21,034
 Hadd fejezzem be. Helyette
 befejezném az egyetemet,
 
-232
+220
 00:15:21,064 --> 00:15:24,504
 elvégeznék egy állatorvosi képzést,
 és pár év múlva, ha minden jól megy,
 
-233
+221
 00:15:24,534 --> 00:15:27,484
 elhelyezkednék egy állatkertben
 gyakornokként.
 
-234
+222
 00:15:28,054 --> 00:15:31,864
 - Igen. - Mi igen?
 - Igen, baj lenne.
 
-235
+223
 00:15:33,814 --> 00:15:36,434
-Jól van, akkor holnap ismét a
-szakácsnõnadrágokkal foglalkozok.
+Jól van, akkor holnap ismét
+a szakácsnõnadrágokkal foglalkozok.
 
-236
+224
 00:15:36,464 --> 00:15:38,036
 Te szegény.
 
-237
+225
 00:15:38,334 --> 00:15:41,734
 Kezded felfogni, hogy milyen szar
 felelõsségteljes felnõttnek lenni?
 
-238
+226
 00:15:41,764 --> 00:15:45,654
 Az összes álmod...
 "Ó ne, az álmaim!"
 
-239
+227
 00:15:45,684 --> 00:15:49,224
 Tudod, sokat gonoszkodsz velem,
 és én hagyom, mert terhes vagy.
 
-240
+228
 00:15:49,254 --> 00:15:54,214
 De miután megszülted a gyereket,
-én is rohadt nagy seggfej leszek.
+én is rohadt nagy seggfej leszek veled.
 
-241
-00:15:55,454 --> 00:16:01,914
-- Kösz a figyelmeztetést. - Dave el akar
-vinni egy új étterem megnyitójára.
+229
+00:15:55,454 --> 00:15:59,150
+- Kösz a figyelmeztetést.
+- Dave el akar vinni vacsorázni
 
-242
-00:16:02,634 --> 00:16:04,384
-- Mikor?
-- Holnap este.
+230
+00:15:59,180 --> 00:16:04,384
+- egy barátja éttermének megnyitójára.
+- Mikor? - Holnap este.
 
-243
+231
 00:16:05,224 --> 00:16:07,554
-- Holnap este.
-- Menj csak.
+Holnap este.
+Menj csak!
 
-244
+232
 00:16:26,874 --> 00:16:27,874
 Helló!
 
-245
+233
 00:16:29,224 --> 00:16:31,824
 - Jól nézel ki!
 - Te is.
 
-246
+234
 00:16:34,794 --> 00:16:37,704
 - Nem öregedtél.
 - Szombat óta?
 
-247
+235
 00:16:38,014 --> 00:16:40,964
 Nem, hanem amióta...
 Tudod.
 
-248
+236
 00:16:41,014 --> 00:16:46,207
 Szörnyû! Te ugyanúgy nézel ki,
 én pedig középkorú nõvé váltam...
 
-249
+237
 00:16:52,504 --> 00:16:54,704
 Merre van a mosdó?
 
-250
+238
 00:16:57,414 --> 00:17:00,114
 - Azt hiszem...
 - Megtalálom...
 
-251
+239
 00:17:05,154 --> 00:17:08,764
 Nem hittem volna, hogy egyszer még
 így fogunk ülni egymással szemben.
 
-252
+240
 00:17:08,794 --> 00:17:10,494
 Tudom! Mindenesetre jó így.
 
-253
+241
 00:17:10,524 --> 00:17:13,574
 Igen, de amikor dobtál,
 eléggé magam alatt voltam.
 
-254
+242
 00:17:15,814 --> 00:17:20,234
 Aztán rájöttél, hogy hibáztál,
 és vissza akartál jönni, de én már...
 
-255
+243
 00:17:21,154 --> 00:17:24,004
 - Azt hiszem részeg voltam.
 - Három hónapon keresztül?
 
-256
+244
 00:17:26,334 --> 00:17:28,284
 Jó látni téged.
 
-257
+245
 00:17:29,004 --> 00:17:33,696
 - Mi a helyzet veled?
 - Nos... sok minden. Semmi.
 
-258
+246
 00:17:34,094 --> 00:17:38,254
 - Bonyolult. És veled?
 - Még mindig Ginával vagyok.
 
-259
+247
 00:17:41,154 --> 00:17:43,854
 - Tényleg?
 - Igen. Tulajdonképpen terhes.
 
-260
+248
 00:17:45,944 --> 00:17:48,444
 - Én is terhes vagyok.
 - Tényleg? - Igen.
 
-261
+249
 00:17:49,644 --> 00:17:53,614
-- Igen. - Nahát. Nem mondtad.
+- Igen. - Nahát! Nem mondtad.
 - Nos, elfelejtettem.
 
-262
+250
 00:17:53,644 --> 00:17:56,984
 Terhes vagyok. Négy hónapos.
-A võlegényem Robnak hívják.
+A võlegényemet Robnak hívják.
 
-263
+251
 00:17:57,014 --> 00:18:02,544
 - Õ egy sikeres amerikai.
 194 centi magas. - És még iszol? - Igen.
 
-264
+252
 00:18:02,574 --> 00:18:06,324
 Most azt mondják, hogy lehet inni.
 Egy keveset.
 
-265
+253
 00:18:06,354 --> 00:18:08,489
 A francia nõk is isznak,
 és nézz rájuk!
 
-266
+254
 00:18:09,047 --> 00:18:13,820
-Gina azt olvasta, hogy egy
-korty alkohol is ártalmas lehet.
+Gina azt olvasta, hogy akár
+egy korty alkohol is ártalmas lehet.
 
-267
+255
 00:18:13,850 --> 00:18:17,312
 Gina nyilván nem ismeri
 a terhesek bortáblázatát.
 
-268
+256
 00:18:19,606 --> 00:18:23,306
 Nem hiszem el, hogy még mindig
 Gina Randolph-fal vagy!
 
-269
+257
 00:18:23,768 --> 00:18:27,385
 Hogy eddig bírtátok.
 Õ mindig annyival...
 
-270
+258
 00:18:27,821 --> 00:18:30,439
 több volt nálad. Sikeresebb.
 
-271
+259
 00:18:31,786 --> 00:18:33,036
 Egyszerûen jobb.
 
-272
+260
 00:18:34,658 --> 00:18:36,094
 Ezt bóknak veszem.
 
-273
+261
 00:18:36,124 --> 00:18:40,015
 - Biztos, hogy még mindig vele vagy?
 - Igen, jól megvagyunk.
 
-274
+262
 00:18:41,143 --> 00:18:43,514
 Februárban fog szülni, amikor
 az új könyve is megjelenik.
 
-275
+263
 00:18:43,544 --> 00:18:46,833
 - A... következõ...
 - Dorian lovagjai, igen.
 
-276
+264
 00:18:46,863 --> 00:18:49,608
 - A gyerekkönyv?
 - Fiataloknak szóló könyv.
 
-277
-00:18:51,854 --> 00:18:53,054
-Én is írok még.
+265
+00:18:51,854 --> 00:18:54,854
+- Én is írok még.
+- Hát, az jó.
 
-278
-00:18:53,854 --> 00:18:54,854
-Hát, az jó.
-
-279
+266
 00:18:55,890 --> 00:18:57,790
 Mindig vicces voltál.
 
-280
+267
 00:19:09,660 --> 00:19:11,560
 Jól éreztem magam ma este.
 
-281
+268
 00:19:11,733 --> 00:19:14,056
 Ezt csak akkor mondod egy férfinak,
 ha meg akarod csókolni.
 
-282
+269
 00:19:14,086 --> 00:19:18,029
 - Meg akarsz csókolni? - Nem.
 - Nagyszerû. Akkor elhúzok.
 
-283
+270
 00:19:19,290 --> 00:19:23,888
 Hé. Kérdezhetek valamit?
 Amikor Fran terhes volt,
 
-284
+271
 00:19:24,158 --> 00:19:28,815
-õ is egyszerre volt...
+õ is felváltva volt...
 nagyon tüzes és nagyon szomorú?
 
-285
+272
 00:19:30,068 --> 00:19:33,368
 Nem, Fran egyszerre volt
 nagyon tüzes és nagyon éhes.
 
-286
+273
 00:19:33,549 --> 00:19:37,599
-Egyszer megdugatta magát velem a
-szülei konyhájában, és nem hazudok,
+Egyszer megdugatta magát velem
+a szülei konyhájában, és nem kamuzok,
 
-287
-00:19:37,908 --> 00:19:41,248
-de befalt egy tányér pörköltet,
-miközben benne mozogtam.
+274
+00:19:37,908 --> 00:19:42,900
+- de befalt egy tányér pörköltet,
+miközben benne mozogtam. - Nem semmi!
 
-288
-00:19:41,900 --> 00:19:42,900
-Nem semmi!
-
-289
+275
 00:19:44,495 --> 00:19:47,595
 - Squash jövõ héten?
 - Rendben.
 
-290
+276
 00:19:47,653 --> 00:19:50,087
 Abban a kis rövidnaciban gyere,
 amit annyira szeretek!
 
-291
+277
 00:19:59,977 --> 00:20:02,870
 Megöregedtél.
 Csúnyán.
 
-292
+278
 00:20:06,638 --> 00:20:07,638
 Minden oké?
 
-293
+279
 00:20:08,255 --> 00:20:12,000
 - Mi a helyzet?
 - Mihez kezdtem... az életemmel?
 
-294
+280
 00:20:12,335 --> 00:20:14,309
 - Mit értem el?
 - Sok mindent.
 
-295
-00:20:14,339 --> 00:20:16,845
-- De miért téged kérdezlek?
-Alig ismersz. - Nos...
+281
+00:20:14,339 --> 00:20:18,575
+De miért téged kérdezlek?
+Alig ismersz. Nem értem el semmit.
 
-296
-00:20:16,875 --> 00:20:18,575
-Nem értem el semmit.
-
-297
+282
 00:20:18,836 --> 00:20:20,977
-És így, anyaként, még annál
-is kevesebbet érek majd.
+És így, anyaként, még annál is
+kevesebbet érek majd.
 
-298
+283
 00:20:21,007 --> 00:20:24,716
 Mínusz kevés leszek.
 A fiam szégyenkezni fog miattam.
 
-299
+284
 00:20:25,859 --> 00:20:27,109
 Mi az ott?
 
-300
-00:20:27,927 --> 00:20:29,027
-Ez csak...
+285
+00:20:27,927 --> 00:20:31,732
+Ez csak... csak pár vázlat.
 
-301
-00:20:29,932 --> 00:20:31,732
-csak pár vázlat.
-
-302
+286
 00:20:32,146 --> 00:20:34,998
 Régebben írtam. Egyszer a Times
 közölte egy levelemet.
 
-303
+287
 00:20:35,028 --> 00:20:38,435
 Aztán valaki a következõ héten
 válaszolt a levelemre...
 
-304
+288
 00:20:38,465 --> 00:20:41,155
 - Ennyire jó írás volt.
 - Nagyszerû, édesem.
 
-305
+289
 00:20:41,185 --> 00:20:44,216
 - Megnézhetem? - Nem.
 - Ugyan már. - Nem!
 
-306
+290
 00:20:45,832 --> 00:20:48,617
 Add vissza! Add vissza!
 Csak add...
 
-307
+291
 00:20:52,869 --> 00:20:55,305
 Nagyon vicces. Tényleg jó.
 
-308
+292
 00:20:55,335 --> 00:20:58,047
 De nem annyira jó,
 mint Gina "Elfbaszó" Randolph.
 
-309
+293
 00:20:58,077 --> 00:20:59,880
 A Dorian lovagjai írója?
 
-310
+294
 00:20:59,910 --> 00:21:03,400
 - Õt meg ki nem szarja le?
 - Pár millió pattanásos tini.
 
-311
+295
 00:21:03,430 --> 00:21:06,181
-Mi van azokkal a pattanásos
-tinikkel, akik téged szeretnek?
+Mi van azokkal a pattanásos tinikkel,
+akik téged szeretnek?
 
-312
-00:21:06,211 --> 00:21:08,317
-Mi van a levelekkel,
-amik a frigón vannak?
+296
+00:21:06,211 --> 00:21:09,697
+Mi van a levelekkel, amik a frigón
+vannak? A tanítványaid megõrülnek érted.
 
-313
-00:21:08,347 --> 00:21:09,697
-A tanítványaid megõrülnek érted.
-
-314
+297
 00:21:10,060 --> 00:21:12,460
 Majdnem sírtam,
 amikor olvastam némelyiket.
 
-315
+298
 00:21:12,671 --> 00:21:17,671
 Ha rávezetsz egy taknyos kölyköt,
-hogy metadin helyett a képzeletüket,
+hogy metamfetamin helyett a képzeletét,
 
-316
+299
 00:21:17,915 --> 00:21:20,603
-vagy egy könyvet is használhatnak
-arra, hogy elmeneküljenek
+vagy egy könyvet is használhat arra,
+hogy elmeneküljön
 
-317
+300
 00:21:20,633 --> 00:21:23,063
 ebbõl a szaros életbõl,
 na az már valami.
 
-318
+301
 00:21:24,218 --> 00:21:27,370
-- Errefelé nem divat a metadin.
-- Majd az lesz...
+- Errefelé nem divat
+a metamfetamin. - Majd az lesz...
 
-319
+302
 00:21:27,400 --> 00:21:29,100
 de a tanítványaidnál nem,
 
-320
+303
 00:21:29,130 --> 00:21:32,870
 és miattad lesznek inkább
 régészek vagy agysebészek.
 
-321
+304
 00:21:32,900 --> 00:21:37,546
 Hát, õ nem. Rendes kölyök,
 de... Hagyjuk.
 
-322
+305
 00:21:37,990 --> 00:21:39,670
 Olyan kedves vagy velem.
 
-323
+306
 00:21:40,840 --> 00:21:44,354
-Pedig én olyan gonosz voltam az
-állatkerti álmoddal kapcsolatban.
+Pedig én olyan gonosz voltam
+az állatkerti álmoddal kapcsolatban.
 
-324
+307
 00:21:45,552 --> 00:21:47,842
 A volt barátommal vacsoráztam ma.
 
-325
+308
 00:21:49,188 --> 00:21:52,290
 - Miért? Még mindig szereted?
 - Nem. Szörnyû.
 
-326
+309
 00:21:54,023 --> 00:21:58,196
 - De tetszeni akartam neki.
 Szánalmas, igaz? - Nem, megértem.
 
-327
+310
 00:21:58,848 --> 00:22:00,648
-Nekem is van Facebook accountom.
+Én is fent vagyok a Facebookon.
 
-328
-00:22:02,326 --> 00:22:03,326
-Figyelj...
+311
+00:22:02,326 --> 00:22:06,981
+Figyelj... én pedig Chrisszel voltam
+ma este, nem Dave-vel.
 
-329
-00:22:04,036 --> 00:22:06,981
-én pedig Chrisszel voltam ma este,
-nem Dave-vel.
-
-330
+312
 00:22:07,015 --> 00:22:09,330
 Már kétszer találkoztunk.
 Sajnálom.
 
-331
+313
 00:22:09,360 --> 00:22:11,821
-Titokban tartottuk, mert
-nem akarta, hogy Fran megtudja.
+Titokban tartottuk, mert nem akarta,
+hogy Fran megtudja.
 
-332
+314
 00:22:11,851 --> 00:22:14,843
 Mintha rohannék a telefonhoz,
 hogy felhívjam azt a tehenet?!
 
-333
+315
 00:22:14,873 --> 00:22:19,252
-Örülök, hogy gonoszkodtam az
-állatkerti álmoddal. Hülye.
+Örülök, hogy gonoszkodtam
+az állatkerti álmoddal. Hülye.
 
-334
+316
 00:22:19,282 --> 00:22:20,382
 Igazad van.
 
-335
+317
 00:22:26,314 --> 00:22:27,714
 Érezted ezt?
 
-336
+318
 00:22:28,035 --> 00:22:31,698
 - Rúgott egyet?
 - Nem, csak pukizott egy kicsit.
 
-337
+319
 00:22:32,308 --> 00:22:33,808
 Azt is érzed?
 
-338
+320
 00:22:35,431 --> 00:22:36,431
 Sajnálom.
 
-339
+321
 00:22:36,820 --> 00:22:40,687
 A baba volt!
 Tényleg sajnálom. <i>Sajnálom!</i>
 
-340
+322
 00:22:42,456 --> 00:22:44,570
 Mi lesz, ha terroristák
 támadják meg az iskolát?
 
-341
+323
 00:22:44,600 --> 00:22:48,789
 - Miért támadnák meg az iskolát?
 - Nem tudom. Szeretkezünk?
 
-342
+324
 00:22:49,076 --> 00:22:51,158
 - Miért nem csak...
 - Akarom. Szükségem van rá.
 
-343
+325
 00:22:51,188 --> 00:22:54,006
 - De hiszen sírsz.
 - Minden rendben.
 
-344
+326
 00:22:54,036 --> 00:22:57,254
 - Nem akarok egy síró nõvel
 szeretkezni. - Tényleg?
 
-345
+327
 00:22:57,485 --> 00:22:59,540
-Nem, megcsinálom,
+Nem, megteszem,
 de szedd össze magad!
 
-346
+328
 00:23:02,160 --> 00:23:04,400
 Mi lesz, ha lesüllyed a méhem
 a szülés után,
 
-347
+329
 00:23:04,430 --> 00:23:06,224
 és többé nem hordhatok
-harisnyát?
+sztreccsnadrágot?
 
-348
+330
 00:23:06,254 --> 00:23:09,284
-- Szerzünk neked speciális harisnyát.
-- Igen? - Igen. - Oké.
+- Szerzünk neked speciális
+sztreccsnadrágot. - Igen? - Igen. - Oké.
 
-349
+331
 00:23:11,096 --> 00:23:13,230
 Mi lesz, ha felrobban a hólyagom,
 és ha pisilnem kell,
 
-350
+332
 00:23:13,260 --> 00:23:16,460
 bárhova megyek, a pisi fröcsköl
 majd belõlem, mint egy szökõkútból?
 
-351
+333
 00:23:16,513 --> 00:23:19,652
 - Felnõtt pelenka?
 - Igen. Felnõtt pelenka.
 
-352
+334
 00:23:20,022 --> 00:23:21,722
 Oké. Felnõtt pelenka.
 
-353
+335
 00:23:24,600 --> 00:23:25,900
 Nem vagy elég fickós.
 
-354
+336
 00:23:29,804 --> 00:23:32,520
-- Megnézünk egy Homeland részt?
+- Megnézünk egy Homeland-részt?
 - Persze.
 
