@@ -13,7 +13,7 @@ Tudod,
 a géped már fél órája leszállt.
 
 4
-00:00:09,417 --> 00:00:13,436
+00:00:09,417 --> 00:00:12,740
 Elkeveredett a poggyászom!
 Miért ne jönnék vissza?
 
@@ -23,7 +23,7 @@ Nem tudom. Már egy gépen ülsz,
 nálad van az útleveled...
 
 6
-00:00:17,470 --> 00:00:20,820
+00:00:17,470 --> 00:00:19,820
 Azt hitted, eltérítem a gépet,
 hogy leléceljek tõled?
 
@@ -571,7 +571,7 @@ Meg akarja mutatni a hajóját.
 
 118
 00:07:54,490 --> 00:07:55,690
-Képzelem.
+Képzeld!
 
 119
 00:07:58,030 --> 00:08:02,930
@@ -921,7 +921,7 @@ Eltûnt. Nyílt seb volt a fején.
 Nem tudom, mit... Felhívjam a férjét?
 
 191
-00:13:28,541 --> 00:13:29,591
+00:13:28,541 --> 00:13:29,720
 Mit mondanál neki?
 
 192
